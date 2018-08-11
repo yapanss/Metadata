@@ -1,0 +1,22 @@
+body {
+	background-color: gray;
+}
+
+.container {
+	margin-top: 150px;
+	
+}
+form {
+	background-color: white;
+	padding: 20px;
+}
+
+.form-group {
+	background-color: lightgray;
+	padding: 10px;
+}
+
+label {
+	font-size: 1.3em;
+	color: darkblue;
+}
